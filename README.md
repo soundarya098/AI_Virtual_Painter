@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python virtual_painter.py
 
 # 📁Files in This Project
- # File                  # Purpose                                    
+# File                  # Purpose                                    
  
  `virtual_painter.py` - Main application code                      
  `requirements.txt`   - List of all dependencies                   
