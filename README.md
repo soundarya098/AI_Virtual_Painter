@@ -52,7 +52,7 @@ pip install -r requirements.txt
 # Step 3: Run the application
 python virtual_painter.py
 
-# 📁 Files in This Project
+# 📁Files in This Project
  # File                  # Purpose                                    
  
  `virtual_painter.py` - Main application code                      
